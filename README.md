@@ -1,4 +1,4 @@
-markdown# AI Chat Assistant with Ollama
+AI Chat Assistant with Ollama
 
 A Python project demonstrating integration with the Ollama API for local AI model interactions. This project showcases various AI capabilities including chat, story generation, and code review.
 
